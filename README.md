@@ -10,11 +10,10 @@
 
 Circuito Analítico
 
-![](Img/Circuito.PNG)
-
-
 Circuito Simulado
 
+![](Img/LB1.jpeg)
+![](Img/LB2.jpeg)
 ![](Img/Materiales.jpeg)
 
 
