@@ -2,19 +2,22 @@
 
 1. OBJETIVO GENERAL 
 
+Comprender el método del voltaje en los nodos para analizar un circuito, que está basado en la ley de Kirchhoff de la corriente y poder encontrar los valores desconocidos.
+
     OBJETIVOS ESPECIFICO 
     
+Calcular los voltajes de los nodos, utilizando LCK, LVK, ley de Ohm y poder entender la relación que se da entre estas.
+
+Estudiar la aplicación del método de nodos con la aplicación de fórmulas conocidas de ley de Ohm y leyes de Kirchhoff.
+
+Entender el uso del simulador de circuitos utilizado para poder aplicarlo de mejor manera y asi poder medir los voltajes de cada uno de los nodos.
+    
+       
 2. MARCO TEÓRICO
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
-
-![](Img/Circuito.PNG)
-
-![](Img/Resol1.PNG)
-
-![](Img/Resol2.PNG)
 
 Circuito Simulado
 
@@ -23,13 +26,19 @@ Circuito Simulado
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
-
-
-
 5. VIDEO
 
 6. CONCLUSIONES
+
+Como conclusión tambien podemos decir que los métodos de analisis de nodos son herramientas que permiten que la aplicación sea mas organizada y sistemática para resolver problemas.
+
+A traves de la práctica del laboratorio podemos comprobar las teorias de las leyes de krichhoff.
+
+
+
+
+
+
 
 
 
