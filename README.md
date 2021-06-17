@@ -38,6 +38,7 @@ Circuito Simulado
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
 Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
 
 ![](Img/tabla.jpeg)
