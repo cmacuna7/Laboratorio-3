@@ -17,6 +17,12 @@ Comprender el método del voltaje en los nodos para analizar un circuito, que es
        
 2. MARCO TEÓRICO
 
+<img src="marco%20teorico/1.jpg" width=500 >
+
+
+<img src="marco%20teorico/2.jpg" width=500 >
+
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
