@@ -44,8 +44,12 @@ Circuito Simulado
 
 * Como recomendación se diría que debemos ser ordenados al momento de armar el circuito ya que un elemento mal conectado puede provocar el daño del equipo o medidas erróneas
 
-
-
-
-
 7. BIBLIOGRAFÍA
+
+Gomez, A. J. (2016). Analisis por Nodos y Mallas. Universidad de los Andes.
+
+Matethew. (24 de Marzo de 2017). Análisis de circuitos por teoremas. Obtenido de https://analisisdecircuitosporteoremascd.blogspot.com/2017/03/analisis-de-nodos-y-supernodos.html
+
+Sensorick. (13 de Enero de 2015). Obtenido de Analisis de nodos: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
+
+
