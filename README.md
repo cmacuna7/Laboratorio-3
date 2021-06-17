@@ -52,4 +52,4 @@ Matethew. (24 de Marzo de 2017). Análisis de circuitos por teoremas. Obtenido d
 
 Sensorick. (13 de Enero de 2015). Obtenido de Analisis de nodos: https://sensoricx.com/circuitos-electricos-dc/analisis-de-circuitos-empleando-nodos/
 
-
+Mi electronica fácil. (24 de Julio de 2018). Obtenido de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/#page-content
