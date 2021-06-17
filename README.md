@@ -12,6 +12,8 @@ Circuito Analítico
 
 Circuito Simulado
 
+![](Img/Materiales.jpeg)
+
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
