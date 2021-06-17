@@ -10,6 +10,9 @@
 
 Circuito Analítico
 
+![](Img/Circuito.PNG)
+
+
 Circuito Simulado
 
 ![](Img/Materiales.jpeg)
