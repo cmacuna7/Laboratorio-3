@@ -28,7 +28,8 @@ Comprender el método del voltaje en los nodos para analizar un circuito, que es
 Circuito Analítico
 
 Circuito Simulado
-
+![](Img/LB1.jpeg)
+![](Img/LB2.jpeg)
 ![](Img/Materiales.jpeg)
 
 
