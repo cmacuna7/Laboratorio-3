@@ -11,6 +11,8 @@ Calcular los voltajes de los nodos, utilizando LCK, LVK, ley de Ohm y poder ente
 Estudiar la aplicación del método de nodos con la aplicación de fórmulas conocidas de ley de Ohm y leyes de Kirchhoff.
 
 Entender el uso del simulador de circuitos utilizado para poder aplicarlo de mejor manera y asi poder medir los voltajes de cada uno de los nodos.
+
+Identificar la forma correcta de medición de voltaje con los instrumentos del simulador como son el multímetro para los circuitos,  y mas especificamente de los circuitos analizados por nodos
     
        
 2. MARCO TEÓRICO
