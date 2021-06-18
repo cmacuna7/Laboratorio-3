@@ -29,7 +29,7 @@ Circuito Analítico
 
 ![](Img/Circuito.PNG)
 
-![](Img/calculos.PNG)
+![](Img/cal2.PNG)
 
 
 Circuito Simulado
