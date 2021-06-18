@@ -33,6 +33,10 @@ Circuito Analítico
 
 
 Circuito Simulado
+![](Img/LB1.jpeg)
+![](Img/LB2.jpeg)
+
+Materiales
 
 ![](Img/Materiales.jpeg)
 
