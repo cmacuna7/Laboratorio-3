@@ -49,6 +49,8 @@ Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=OGT1gbeRXTk
+
 6. CONCLUSIONES
 
 * Como conclusión tambien podemos decir que los métodos de analisis de nodos son herramientas que permiten que la aplicación sea mas organizada y sistemática para resolver problemas.
